@@ -47,7 +47,7 @@ var World = {
         // updates distance information of all places
         World.preCalculatePointersDistance();
 
-		World.updateStatusMessage('App currently supports ' + i + ' buildings');
+		World.updateStatusMessage('App currently supports 6 Hochschule buildings, 2 Fulda City locations, 1 Logo and 1 Flyer.');
 	},
 
     // calculating distance while loading pointers
