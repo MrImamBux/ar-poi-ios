@@ -131,7 +131,13 @@ var pointersData = [
                 "w": 1024,
                 "h": 683,
                 "title": 'Building # 46 (E)'
-            }
+            },
+           {
+           "src": "assets/gallery/E/10-min.png",
+           "w": 1024,
+           "h": 683,
+               "title": 'Prof. Dr. Yvonne Jung'
+           }
         ]
     },
     {

@@ -144,7 +144,6 @@ var World = {
 
         //configuring photo gallery and click listener
         ImageGallery.init();
-        ImgTracking.init();
         ImgTrackingHS.init();
 
 	},
